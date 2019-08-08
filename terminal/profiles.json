@@ -221,7 +221,7 @@
         {
             "acrylicOpacity" : 0.69999998807907104,
             "background" : "#222222",
-            "backgroundImage" : "http://www.rw-designer.com/icon-image/3060-256x256x32.png",
+            "backgroundImage" : "https://github.com/benc-uk/shared/raw/master/terminal/img/ubuntu.png",
             "backgroundImageAlignment" : "bottomRight",
             "backgroundImageOpacity" : 0.20000000298023224,
             "backgroundImageStretchMode" : "none",
@@ -244,7 +244,7 @@
         {
             "acrylicOpacity" : 0.69999998807907104,
             "background" : "#111144",
-            "backgroundImage" : "https://upload.wikimedia.org/wikipedia/commons/a/af/PowerShell_Core_6.0_icon.png",
+            "backgroundImage" : "https://github.com/benc-uk/shared/raw/master/terminal/img/powershell.png",
             "backgroundImageAlignment" : "bottomRight",
             "backgroundImageOpacity" : 0.20000000298023224,
             "backgroundImageStretchMode" : "none",
@@ -285,7 +285,7 @@
         {
             "acrylicOpacity" : 0.69999998807907104,
             "background" : "#043463",
-            "backgroundImage" : "C:\\Users\\becolem\\Pictures\\Icons & Branding\\misc\\cloud-shell.png",
+            "backgroundImage" : "https://github.com/benc-uk/shared/raw/master/terminal/img/cloud-shell.png",
             "backgroundImageAlignment" : "bottomRight",
             "backgroundImageOpacity" : 0.20000000298023224,
             "backgroundImageStretchMode" : "none",
